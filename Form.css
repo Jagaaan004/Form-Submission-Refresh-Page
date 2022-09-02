@@ -1,0 +1,63 @@
+header {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    position:relative; top:50px;
+}
+
+html {
+    background-color: aquamarine;
+}
+
+label[for=userName]
+{
+    position: relative; left: 500px;
+    position: relative; top: 60px;
+    font-weight: bold;
+}
+
+#user {
+    position:relative; left: 420px;
+    position:relative; top: 85px;
+    height: 20px;
+    width: 250px;
+}
+
+label[for=Pass]
+{
+    position: relative; left: 500px;
+    position: relative; top: 95px;
+    font-weight: bold;
+}
+
+#password {
+    position:relative; left: 423px;
+    position:relative; top: 118px;
+    height: 20px;
+    width: 250px;
+}
+
+label[for=Mail]
+{
+    position: relative; left: 500px;
+    position: relative; top: 127px;
+    font-weight: bold;
+}
+
+#email {
+    position:relative; left: 449px;
+    position:relative; top: 150px;
+    height: 20px;
+    width: 250px;
+}
+
+#submit {
+    position:relative; left: 500px;
+    position:relative; top: 175px;
+    height: 43px;
+    width: 257px;
+}
+
+#box {
+padding: 15px;
+}
